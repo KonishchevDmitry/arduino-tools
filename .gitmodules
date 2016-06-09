@@ -1,3 +1,0 @@
-[submodule "libraries/AltSoftSerial"]
-	path = libraries/AltSoftSerial
-	url = git@github.com:PaulStoffregen/AltSoftSerial.git
